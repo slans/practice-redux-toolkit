@@ -7,7 +7,7 @@ import {
 	editTodoActionCreator,
 	toggleTodoActionCreator,
 	deleteTodoActionCreator,
-} from '../redux-og';
+} from '../redux-toolkit';
 import { Todo, State } from '../type';
 import './App.css';
 
